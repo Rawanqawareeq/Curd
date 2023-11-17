@@ -146,7 +146,7 @@ export default function Create() {
  <Input id={'useremail'} errors={errors}  title={'user email'}  type={'email'} name={'email'}  changedata={changedata}/>
  <Input id={'userpassword'}  errors={errors} title={'user password'}  type={'password'} name={'password'}  changedata={changedata}/>
   <div className="mb-3">
-  <input type="submit" className="from-control" value='add address'/>
+  <input type="submit" className="from-control" value='Add Data'/>
 <i class="fa-solid fa-house"></i>
   </div>
 </form>

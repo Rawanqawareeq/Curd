@@ -157,7 +157,7 @@ export default function Edit() {
  <Input id={'user email'} errors={errors}  title={'user email'}  value={user.email} type={'email'} name={'email'}  changedata={changedata}/>
  <Input id={'user password'}  errors={errors} title={'user password'} value={user.password} cusstomclass={"bg-danger"} type={'password'} name={'password'}  changedata={changedata}/>
   <div className="mb-3">
-  <input type="submit" className="from-control" value='add address'/>
+  <input type="submit" className="from-control" value='Update Data'/>
 
   </div>
 </form>
