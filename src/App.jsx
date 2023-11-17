@@ -1,7 +1,7 @@
 import React from 'react'
 import {Routes,Route} from 'react-router-dom'
 import Create from './components/users/Create.jsx'
-import Index from './components/users/index.jsx'
+import Index from './components/users/Index.jsx'
 import Details from './components/users/Details.jsx'
 import Edit from './components/users/Edit.jsx'
 
